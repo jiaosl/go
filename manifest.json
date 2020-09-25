@@ -1,0 +1,13 @@
+{
+  "name": "Go by example",
+  "short_name": "Go by example",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A simply Go by example.",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }]
+}
